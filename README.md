@@ -1,2 +1,2 @@
 ## Pcontum 3D
-Pcontum, [Pcontum Lisansı](pcontum.com/lisans)'ıyla lisanslanmıştır.
+Pcontum (ve 3D de), [Pcontum Lisansı](pcontum.com/lisans)'ıyla lisanslanmıştır.
