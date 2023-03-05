@@ -1,0 +1,11 @@
+C:\Users\EsatPc\source\repos\P3D\P3D\bin\Debug\P3D.exe.config
+C:\Users\EsatPc\source\repos\P3D\P3D\bin\Debug\P3D.exe
+C:\Users\EsatPc\source\repos\P3D\P3D\bin\Debug\P3D.pdb
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.csproj.AssemblyReference.cache
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.csproj.SuggestedBindingRedirects.cache
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.Form1.resources
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.Properties.Resources.resources
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.csproj.GenerateResource.cache
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.csproj.CoreCompileInputs.cache
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.exe
+C:\Users\EsatPc\source\repos\P3D\P3D\obj\Debug\P3D.pdb
